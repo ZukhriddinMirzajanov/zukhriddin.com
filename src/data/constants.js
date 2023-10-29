@@ -7,8 +7,7 @@ export const Bio = {
     ],
     // description: "Experienced Java Full Stack Developer with 2 years of experience in designing and developing RESTful APIs, integrating third-party libraries and services, and using agile methodologies. I am always eager to learn and stay up to date with the latest industry trends and technologies. My strong problem-solving abilities, attention to detail, and ability to work well in a team make me an asset to any project.",
     github: "https://github.com/ZukhriddinMirzajanov",
-    resume:
-        "https://github.com/ZukhriddinMirzajanov/Resume/blob/main/ZUKHRIDDIN_MIRZAJANOV_CV.pdf",
+    resume: "https://github.com/ZukhriddinMirzajanov/Resume/blob/main/ZUKHRIDDIN_MIRZAJANOV_CV.pdf",
     linkedin: "https://www.linkedin.com/in/zukhriddinmirzajanov/",
 };
 
